@@ -1,0 +1,5 @@
+.venv
+venv
+.key
+config.yaml
+.pyc
