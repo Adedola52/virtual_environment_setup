@@ -39,7 +39,7 @@ This project could also be hosted on github for a public use. That means, anyone
 - Clone this repository:
 
 ```
-git clone 
+git clone https://github.com/Adedola52/virtual_environment_setup
 ```
 
 - CD into the directory:
